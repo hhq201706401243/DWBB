@@ -88,7 +88,7 @@ int c = CONTENT;
 
 int maxvalue[NUM][CONTENT];
 
-int flag[NUM]={0,0,0,0,0,0,0,0,0,0};
+int flag[NUM]={0,0,0,0,0,0};
 
 
 
